@@ -5,10 +5,10 @@ este repositório tem como objetivo de mostar uma aplicação que demonstra e es
 
 # Resultado dos testes realizados:
 
-##  Demonstração de Resultado positivo:
+##  Demonstração de Resultado positivo
 ![ohata_conta_ok](https://github.com/erikv07/conta_ohata/assets/101666624/7ea865f3-bac5-4d48-91d3-9ad9f264b176). <br/>
 
-## Demonstração de Resultado negativo:
+## Demonstração de Resultado negativo
 ![ohata_conta](https://github.com/erikv07/conta_ohata/assets/101666624/d4e7cd6b-d873-496c-ab74-dea853371a68). <br/> 
 
 # Javadoc gerado:
